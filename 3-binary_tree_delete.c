@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree__delete - deletes all element in a tree
+ * binary_tree_delete - deletes all element in a tree
  * @tree: pointer to the parent(const)
  * Return: returns newnode
 */
