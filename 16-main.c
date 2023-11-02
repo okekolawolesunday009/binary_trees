@@ -1,14 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "binary_trees.h"
-#include "2-binary_tree_insert_right.c"
-#include "1-binary_tree_insert_left.c"
-#include "binary_tree_print.c"
-#include "11-binary_tree_size.c"
-#include "0-binary_tree_node.c"
-#include "14-binary_tree_balance.c"
-#include "9-binary_tree_height.c"
-#include "16-binary_tree_is_perfect.c"
 
 /**
  * main - Entry point
