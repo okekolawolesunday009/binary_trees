@@ -1,11 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "binary_trees.h"
-#include "2-binary_tree_insert_right.c"
-#include "binary_tree_print.c"
-#include "11-binary_tree_size.c"
-#include "0-binary_tree_node.c"
-#include "13-binary_tree_nodes.c"
 
 /**
  * main - Entry point
